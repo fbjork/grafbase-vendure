@@ -6,16 +6,16 @@ settings:
 
 devDependencies:
   '@grafbase/sdk':
-    specifier: ~0.14.0
-    version: 0.14.0
+    specifier: ~0.16.0
+    version: 0.16.0
   '@types/node':
     specifier: ^20.11.6
     version: 20.11.6
 
 packages:
 
-  /@grafbase/sdk@0.14.0:
-    resolution: {integrity: sha512-rsrLITQGc/P2LEKsyO1N36rnV4asJicnQIzvqIjKB0BlKvwn7k2AynKdDb7RqwHqSFXSXMz3iKA52BtHpp0Zvw==}
+  /@grafbase/sdk@0.16.0:
+    resolution: {integrity: sha512-z+FW7Xk+orqg6s6j6OJjPyeY7Nd2DAYkDer9An7kMuDZVnF+xgkWRA18j6lPRFzEloBWWktSR7P9zu1z9G/XaQ==}
     engines: {node: '>=16.13.0'}
     dependencies:
       dotenv: 16.4.0
